@@ -1,2 +1,0 @@
-# html5_boilerplate
-IS601_Assignment_Week1
